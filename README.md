@@ -26,10 +26,10 @@ gas status
 `gas init` installs git hooks that print the active account on every `git commit` and `git push`
 and ask before continuing if something looks wrong.
 
-Settings live in `~/.gas/config.toml` (run `gas config` to see them). See `CONTRIBUTING.md` to help out.
+Settings live in `~/.gas/config.toml`.
 
 ## Contributing
-Contributions are welcomed.
+Contributions are welcomed. See `CONTRIBUTING.md` for more information.
 
 ## License
 
