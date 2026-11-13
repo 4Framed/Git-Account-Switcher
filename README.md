@@ -1,5 +1,8 @@
 # Git Account Switcher
 
+> [!NOTE]
+> This project in its entirity has been created by "vibecoding", due to my lack of knowledge in rust. Contributions are welcomed to fix any issues that may arise as a result of this.
+
 `gas` switches between git and GitHub accounts and shows which account a commit or push comes from
 before it goes out, so you don't leak the wrong identity.
 
@@ -24,6 +27,9 @@ gas status
 and ask before continuing if something looks wrong.
 
 Settings live in `~/.gas/config.toml` (run `gas config` to see them). See `CONTRIBUTING.md` to help out.
+
+## Contributing
+Contributions are welcomed.
 
 ## License
 
